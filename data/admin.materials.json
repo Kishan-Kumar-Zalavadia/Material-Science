@@ -1,0 +1,4047 @@
+[{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbbfc"
+  },
+  "title": "paper-150",
+  "b0": 1090,
+  "d1": 922,
+  "d2": 0.2,
+  "ei": 0.20000000000000004,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "stress-strain",
+    "stress",
+    "cold-rolling",
+    "stress—",
+    "stress—strain",
+    "cast",
+    "powder"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 32500
+  },
+  "link": null,
+  "n": -0.40230829650111954,
+  "k": 757.5257222582361
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbbfd"
+  },
+  "title": "paper-148",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "restrain",
+    "cast",
+    "strain",
+    "stress-strain",
+    "stress",
+    "strength-strain",
+    "micro-stress",
+    "powder"
+  ],
+  "composition": {
+    "Co": 1,
+    "Fe": 1,
+    "Mn": 1.2,
+    "Ni": 1,
+    "Ga": 0
+  },
+  "link": null,
+  "n": -1.5424771079216308,
+  "k": 22.92758803492868
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbbfe"
+  },
+  "title": "paper-155",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "powder",
+    "stress",
+    "stress-strain",
+    "strain"
+  ],
+  "composition": {
+    "S": {
+      "$numberLong": "2238785418310007"
+    }
+  },
+  "link": null,
+  "n": -2.2236271781314887,
+  "k": 0.5282451295858217
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbbff"
+  },
+  "title": "paper-153",
+  "b0": 3390,
+  "d1": 4855,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "extrusion",
+    "powder",
+    "stress-strain",
+    "strain",
+    "stress",
+    "cast"
+  ],
+  "composition": {
+    "No": 0.300102311403
+  },
+  "link": null,
+  "n": -0.9767330911437099,
+  "k": 541.6256575665199
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc00"
+  },
+  "title": "paper-151",
+  "b0": 2190,
+  "d1": 5079,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "extrusion",
+    "powder",
+    "stress-strain",
+    "strain",
+    "stress",
+    "cast"
+  ],
+  "composition": {
+    "No": 0.300102311403
+  },
+  "link": null,
+  "n": -0.7010908034828398,
+  "k": 1009.3304423775878
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc01"
+  },
+  "title": "paper-152",
+  "b0": 3290,
+  "d1": 1103,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "extrusion",
+    "powder",
+    "stress-strain",
+    "strain",
+    "stress",
+    "cast"
+  ],
+  "composition": {
+    "No": 0.300102311403
+  },
+  "link": null,
+  "n": -0.5805749226527073,
+  "k": 1306.617269571627
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc02"
+  },
+  "title": "paper-139",
+  "b0": -5510,
+  "d1": 19690,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress-induced",
+    "as-cast",
+    "cast",
+    "strain",
+    "stress",
+    "stress-strain",
+    "powder"
+  ],
+  "composition": {
+    "Ti": 1,
+    "Zr": 1,
+    "Hf": 1,
+    "V": 1,
+    "Nb": 1,
+    "Ta": 1
+  },
+  "link": null,
+  "n": -0.7074586611982071,
+  "k": 760.6990331481403
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc05"
+  },
+  "title": "paper-138",
+  "b0": 1590,
+  "d1": 3884,
+  "d2": 0.35,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "cast",
+    "as-cast",
+    "high-strain-rate",
+    "stress-strain",
+    "High-strain"
+  ],
+  "composition": {
+    "Nb": 1,
+    "Cr": 1,
+    "Mo": 0.5,
+    "Ta": 0.5,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -0.41337191010972807,
+  "k": 1170.7851876704378
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc06"
+  },
+  "title": "paper-141",
+  "b0": -6.390615670108294e+55,
+  "d1": 677,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "forge",
+    "quasi-constrained",
+    "cast",
+    "Stress-strain",
+    "stress-strain",
+    "stress",
+    "stress-",
+    "microstrain"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Mn": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.20555502852708518,
+  "k": 942.1080008190067
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc07"
+  },
+  "title": "paper-144",
+  "b0": 3190,
+  "d1": 8084,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Ti": 1,
+    "Ta": 1,
+    "Hf": 1,
+    "Mo": 1,
+    "Zr": 1500
+  },
+  "link": null,
+  "n": -0.769835598337768,
+  "k": 775.2831077954664
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc08"
+  },
+  "title": "paper-137",
+  "b0": 3190,
+  "d1": 8084,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Al": 0.4,
+    "Hf": 0.6,
+    "Nb": 1,
+    "Ta": 1,
+    "Ti": 1,
+    "Zr": 1500
+  },
+  "link": null,
+  "n": -0.805,
+  "k": 258.329
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc09"
+  },
+  "title": "paper-145",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.911,
+  "k": 1195.42
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc0a"
+  },
+  "title": "paper-143",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.911,
+  "k": 1195.42
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc0b"
+  },
+  "title": "paper-142",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.911,
+  "k": 1195.42
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc0c"
+  },
+  "title": "paper-135",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.911,
+  "k": 1195.42
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc0d"
+  },
+  "title": "paper-136",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "As-cast",
+    "stress-strain",
+    "stress"
+  ],
+  "composition": {
+    "Ti": 1,
+    "V": 1,
+    "Nb": 1,
+    "Mo": 1,
+    "Ta": 1,
+    "W": 1
+  },
+  "link": null,
+  "n": -0.9725764048199047,
+  "k": 241.44087683302064
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc0e"
+  },
+  "title": "paper-131",
+  "b0": 6990,
+  "d1": 6699,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "powder",
+    "ball-to-powder",
+    "stress-strain",
+    "stress-",
+    "strain",
+    "as-cast",
+    "stress"
+  ],
+  "composition": {
+    "Fe": 1,
+    "Co": 1,
+    "Cr": 1,
+    "Ni": 1,
+    "Mn": 1
+  },
+  "link": null,
+  "n": -0.3996202568481597,
+  "k": 3539.0465508127277
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc0f"
+  },
+  "title": "paper-132",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "cast",
+    "as-cast",
+    "stress-strain",
+    "stress",
+    "Stress-strain"
+  ],
+  "composition": {
+    "Al": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Co": 1,
+    "Ni": 1,
+    "Cu": 1,
+    "Mn": 1
+  },
+  "link": null,
+  "n": 0.760518117929002,
+  "k": 181228.0085788821
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc10"
+  },
+  "title": "paper-133",
+  "b0": 1990,
+  "d1": 1187,
+  "d2": 0.25,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "stress-strain",
+    "stress",
+    "cold-rolling",
+    "stress—",
+    "stress—strain",
+    "cast",
+    "powder"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 32500
+  },
+  "link": null,
+  "n": -0.3175251456418015,
+  "k": 1002.3620750823027
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc11"
+  },
+  "title": "paper-128",
+  "b0": 5590,
+  "d1": 1528,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "stress"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Cu": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1272
+  },
+  "link": null,
+  "n": 0.4221823958085821,
+  "k": 20457.969875231127
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc12"
+  },
+  "title": "paper-127",
+  "b0": 6690,
+  "d1": 4625,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "stress"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Cu": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1272
+  },
+  "link": null,
+  "n": -0.29310188509828855,
+  "k": 4970.247931720464
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc13"
+  },
+  "title": "paper-129",
+  "b0": 390,
+  "d1": 8849,
+  "d2": 0.39999999999999997,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress/strain-induced",
+    "stress",
+    "strain",
+    "as-cast",
+    "cast",
+    "stress-strain",
+    "strain-hardening",
+    "stress-induced"
+  ],
+  "composition": {
+    "Ti": 48.9,
+    "Zr": 32,
+    "Nb": 12.6,
+    "Ta": 6.5
+  },
+  "link": null,
+  "n": -0.7414206185138649,
+  "k": 360.25274967997814
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc14"
+  },
+  "title": "paper-130",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress/strain-induced",
+    "stress",
+    "strain",
+    "as-cast",
+    "cast",
+    "stress-strain",
+    "strain-hardening",
+    "stress-induced"
+  ],
+  "composition": {
+    "Ti": 48.9,
+    "Zr": 32,
+    "Nb": 12.6,
+    "Ta": 6.5
+  },
+  "link": null,
+  "n": -0.8219326912505627,
+  "k": 371.7620856336465
+},
+{
+  "_id": {
+    "$oid": "678442da8984f0f5819dbc15"
+  },
+  "title": "paper-126",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate-dependent",
+    "stress-strain",
+    "strain-rate",
+    "as-cast",
+    "Stress-strain",
+    "stress-induced"
+  ],
+  "composition": {
+    "Hf": 1,
+    "Nb": 1,
+    "Ta": 1,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -1.2299947522242762,
+  "k": 55.02158873151752
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc16"
+  },
+  "title": "paper-168",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "cryorolling",
+    "castability",
+    "stress",
+    "strain",
+    "-rolling",
+    "-strain"
+  ],
+  "composition": {
+    "Al": 1,
+    "Mg": 1,
+    "Si": 0.5,
+    "F": 22
+  },
+  "link": null,
+  "n": -2.4884008430714024,
+  "k": 1.6579707684260356
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc17"
+  },
+  "title": "paper-166",
+  "b0": 60,
+  "d1": 6,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "forge",
+    "stresse",
+    "stress-relieving",
+    "casting"
+  ],
+  "composition": {
+    "C": 1,
+    "N": 201710016344.5
+  },
+  "link": null,
+  "n": -0.34595824345104953,
+  "k": 23.709155030149198
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc18"
+  },
+  "title": "paper-171",
+  "b0": 790,
+  "d1": 1032,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stress—strain",
+    "stress-strain",
+    "Stress—strain",
+    "high-strain",
+    "stress—plastic",
+    "constraint"
+  ],
+  "composition": {
+    "E": 1,
+    "N": 1,
+    "G": 1,
+    "I": 1,
+    "R": 1
+  },
+  "link": null,
+  "n": -0.8249597608278002,
+  "k": 95.82084466252996
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc19"
+  },
+  "title": "paper-165",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain-rate",
+    "strain-rates",
+    "stress",
+    "strain",
+    "stress-based",
+    "strain-",
+    "strain-based",
+    "stress-",
+    "constrain",
+    "stress-strain",
+    "stress—strain",
+    "stress—plastic",
+    "temperature-strain-rate"
+  ],
+  "composition": {
+    "A": 1,
+    "B": 1,
+    "S": 1,
+    "T": 1,
+    "R": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -0.6640052929016873,
+  "k": 112.87447766356297
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc1a"
+  },
+  "title": "paper-170",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "stress-true",
+    "forge",
+    "extrusion",
+    "stress-strain",
+    "powder"
+  ],
+  "composition": {
+    "T": 1,
+    "E": 1,
+    "M": 1,
+    "P": 1,
+    "R": 1,
+    "A": 1,
+    "U": 1,
+    "S": 675,
+    "K": 1
+  },
+  "link": null,
+  "n": -0.10142716047113981,
+  "k": 1304.274114906212
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc1b"
+  },
+  "title": "paper-174",
+  "b0": 90,
+  "d1": 917,
+  "d2": 0.2,
+  "ei": 0.20000000000000004,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stress-strain",
+    "stress-true",
+    "strain-rate",
+    "stress—"
+  ],
+  "composition": {
+    "A": 1,
+    "B": 1,
+    "S": 1,
+    "T": 1,
+    "R": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -1.1337667824517617,
+  "k": 33.80148328003328
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc1c"
+  },
+  "title": "paper-169",
+  "b0": 1390,
+  "d1": 528,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress-controlled",
+    "strain-controlled",
+    "stress",
+    "strain",
+    "stress—strain",
+    "stress-strain",
+    "stress-rates",
+    "strain-rate",
+    "stress-control"
+  ],
+  "composition": {
+    "C": 1,
+    "N": 1,
+    "R": 1,
+    "S": 1,
+    "I": 1,
+    "G": 1,
+    "M": 1,
+    "P": 1
+  },
+  "link": null,
+  "n": -0.25133214643470986,
+  "k": 864.3762600490816
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc1d"
+  },
+  "title": "paper-172",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "strain-time",
+    "stress-strain",
+    "stress",
+    "strain-rate",
+    "Stress-strain",
+    "constraint",
+    "extrusion",
+    "pre-straining",
+    "high-strain-rate",
+    "cast"
+  ],
+  "composition": {
+    "A": 1,
+    "B": 1,
+    "S": 1,
+    "T": 1,
+    "R": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -0.9786784534910414,
+  "k": 53.42906297796662
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc1e"
+  },
+  "title": "paper-173",
+  "b0": 690,
+  "d1": 121,
+  "d2": 0.2,
+  "ei": 0.25000000000000006,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "stress-strain",
+    "stress—",
+    "temperature-strain",
+    "rate-strain",
+    "Temperature-strain"
+  ],
+  "composition": {
+    "O": 1,
+    "F": 1,
+    "E": 1,
+    "X": 5,
+    "T": 305,
+    "N": 1
+  },
+  "link": null,
+  "n": -0.2573134866615538,
+  "k": 615.7008501948519
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc1f"
+  },
+  "title": "paper-163",
+  "b0": 290,
+  "d1": 1026,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain-rate",
+    "strain-rates",
+    "stress",
+    "strain",
+    "stress-based",
+    "strain-",
+    "strain-based",
+    "stress-",
+    "constrain",
+    "stress-strain",
+    "stress—strain",
+    "stress—plastic",
+    "temperature-strain-rate"
+  ],
+  "composition": {
+    "A": 1,
+    "B": 1,
+    "S": 1,
+    "T": 1,
+    "R": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -0.9951578653638175,
+  "k": 22.989526121836
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc20"
+  },
+  "title": "paper-159",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "strain-hardening",
+    "strain",
+    "stress",
+    "strainconditions",
+    "straintoughness",
+    "strain-hardening-dependent",
+    "Astress-strain",
+    "stress-",
+    "andstrain",
+    "strain-",
+    "strainhardening",
+    "stress-straincurves",
+    "plasticstrain"
+  ],
+  "composition": {
+    "F": 1,
+    "E": 1,
+    "B": 1,
+    "R": 1,
+    "U": 1,
+    "A": 1,
+    "Y": 2009,
+    "M": 1,
+    "T": 1,
+    "L": 1,
+    "G": 1,
+    "I": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -0.3537678041727727,
+  "k": 317.80421155191823
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc21"
+  },
+  "title": "paper-157",
+  "b0": 490,
+  "d1": 104,
+  "d2": 0.2,
+  "ei": 0.25000000000000006,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "strain",
+    "stress",
+    "100000strain",
+    "Stress-strain"
+  ],
+  "composition": {
+    "O": 2.040608010012014e+25
+  },
+  "link": null,
+  "n": -0.03192291792820311,
+  "k": 514.9577432583411
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc22"
+  },
+  "title": "paper-164",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain-rate",
+    "strain-rates",
+    "stress",
+    "strain",
+    "stress-based",
+    "strain-",
+    "strain-based",
+    "stress-",
+    "constrain",
+    "stress-strain",
+    "stress—strain",
+    "stress—plastic",
+    "temperature-strain-rate"
+  ],
+  "composition": {
+    "A": 1,
+    "B": 1,
+    "S": 1,
+    "T": 1,
+    "R": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -0.8361209442337612,
+  "k": 56.60645858668119
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc23"
+  },
+  "title": "paper-160",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "strain-hardening",
+    "strain",
+    "stress",
+    "strainconditions",
+    "straintoughness",
+    "strain-hardening-dependent",
+    "Astress-strain",
+    "stress-",
+    "andstrain",
+    "strain-",
+    "strainhardening",
+    "stress-straincurves",
+    "plasticstrain"
+  ],
+  "composition": {
+    "F": 1,
+    "E": 1,
+    "B": 1,
+    "R": 1,
+    "U": 1,
+    "A": 1,
+    "Y": 2009,
+    "M": 1,
+    "T": 1,
+    "L": 1,
+    "G": 1,
+    "I": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -0.3280371903276106,
+  "k": 323.622864734298
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc24"
+  },
+  "title": "paper-162",
+  "b0": 190,
+  "d1": 2179,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "temperature-strain",
+    "nanopowder",
+    "strain",
+    "stress—strain"
+  ],
+  "composition": {
+    "E": 1,
+    "N": 1,
+    "G": 1,
+    "I": 1,
+    "R": 1
+  },
+  "link": null,
+  "n": -1.7894567072490128,
+  "k": 7.89503711344653
+},
+{
+  "_id": {
+    "$oid": "6784434e8984f0f5819dbc25"
+  },
+  "title": "paper-161",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "strain-hardening",
+    "strain",
+    "stress",
+    "strainconditions",
+    "straintoughness",
+    "strain-hardening-dependent",
+    "Astress-strain",
+    "stress-",
+    "andstrain",
+    "strain-",
+    "strainhardening",
+    "stress-straincurves",
+    "plasticstrain"
+  ],
+  "composition": {
+    "F": 1,
+    "E": 1,
+    "B": 1,
+    "R": 1,
+    "U": 1,
+    "A": 1,
+    "Y": 2009,
+    "M": 1,
+    "T": 1,
+    "L": 1,
+    "G": 1,
+    "I": 1,
+    "C": 1
+  },
+  "link": null,
+  "n": -0.28090498377255013,
+  "k": 364.7969939959898
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc26"
+  },
+  "title": "paper-1",
+  "b0": 2610,
+  "d1": 767.6116590287579,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "arc-casting",
+    "as-cast",
+    "strain",
+    "stress-strain",
+    "–172strain",
+    "cast"
+  ],
+  "composition": {
+    "Fe": 38.5,
+    "Mn": 20,
+    "Co": 20,
+    "Cr": 15,
+    "Si": 5,
+    "Cu": 1.5
+  },
+  "link": "https://www.sciencedirect.com/science/article/abs/pii/S135964621930171X"
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc27"
+  },
+  "title": "paper-2",
+  "b0": 2930,
+  "d1": 592.8073942024265,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "cold-rolling",
+    "Stress-strain",
+    "stress-true",
+    "stress",
+    "strain24",
+    "stress-strain",
+    "cast",
+    "extrusion"
+  ],
+  "composition": {
+    "Fe": 20,
+    "Mn": 20,
+    "Ni": 20,
+    "Co": 20,
+    "Cr": 20
+  },
+  "link": "https://www.nature.com/articles/s41598-017-16509-9"
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc28"
+  },
+  "title": "paper-4",
+  "b0": 490,
+  "d1": 938.3652889137651,
+  "d2": 0.2,
+  "ei": 0.20000000000000004,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "Stress-strain",
+    "highstrain",
+    "strainrate",
+    "stress-strain",
+    "strain-rate",
+    "high-strain-rate"
+  ],
+  "composition": {
+    "Al": 1,
+    "Co": 1,
+    "Cr": 1.5,
+    "Fe": 1.5,
+    "Ni": 1,
+    "Ti": 0
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc29"
+  },
+  "title": "paper-5",
+  "b0": 2490,
+  "d1": 261.40126761436994,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "cast",
+    "drop-cast",
+    "strain",
+    "cross-rolling",
+    "strain5744",
+    "stress–strain",
+    "stress–",
+    "stress–straincurves",
+    "stress",
+    "strainingto",
+    "strains.These",
+    "stress–true",
+    "stress–engineering",
+    "straincurves",
+    "strainhardening",
+    "orstrain",
+    "strainof",
+    "twinningstress",
+    "strainsaround"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc2a"
+  },
+  "title": "paper-6",
+  "b0": -7.694162652122276e+54,
+  "d1": 190.97923315485684,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "cast",
+    "drop-cast",
+    "strain",
+    "cross-rolling",
+    "strain5744",
+    "stress–strain",
+    "stress–",
+    "stress–straincurves",
+    "stress",
+    "strainingto",
+    "strains.These",
+    "stress–true",
+    "stress–engineering",
+    "straincurves",
+    "strainhardening",
+    "orstrain",
+    "strainof",
+    "twinningstress",
+    "strainsaround"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc2b"
+  },
+  "title": "paper-22",
+  "b0": 2190,
+  "d1": 757.1978562411023,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "arc-casting",
+    "as-cast",
+    "strain",
+    "stress-strain",
+    "–172strain",
+    "cast"
+  ],
+  "composition": {
+    "Fe": 38.5,
+    "Mn": 20,
+    "Co": 20,
+    "Cr": 15,
+    "Si": 5,
+    "Cu": 1.5
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc2c"
+  },
+  "title": "paper-23",
+  "b0": 2190,
+  "d1": 918.7701308010476,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "arc-casting",
+    "as-cast",
+    "strain",
+    "stress-strain",
+    "–172strain",
+    "cast"
+  ],
+  "composition": {
+    "Fe": 38.5,
+    "Mn": 20,
+    "Co": 20,
+    "Cr": 15,
+    "Si": 5,
+    "Cu": 1.5
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc2d"
+  },
+  "title": "paper-25",
+  "b0": 2490,
+  "d1": 837.2788500523404,
+  "d2": 0.2,
+  "ei": 0.20000000000000004,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "cold-rolling",
+    "Stress-strain",
+    "stress-true",
+    "stress",
+    "strain24",
+    "stress-strain",
+    "cast",
+    "extrusion"
+  ],
+  "composition": {
+    "Fe": 20,
+    "Mn": 20,
+    "Ni": 20,
+    "Co": 20,
+    "Cr": 20
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc2e"
+  },
+  "title": "paper-26",
+  "b0": -2.273291749200269e+62,
+  "d1": 2478.609773940573,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "cold-rolling",
+    "Stress-strain",
+    "stress-true",
+    "stress",
+    "strain24",
+    "stress-strain",
+    "cast",
+    "extrusion"
+  ],
+  "composition": {
+    "Fe": 20,
+    "Mn": 20,
+    "Ni": 20,
+    "Co": 20,
+    "Cr": 20
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc2f"
+  },
+  "title": "paper-7",
+  "b0": 4190,
+  "d1": 542.5802002536755,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "strain-rate",
+    "stress",
+    "forge",
+    "powder",
+    "cast",
+    "high-strain-rate",
+    "stress-engineering",
+    "slip-stress",
+    "strainrate",
+    "strain-ratedeformation",
+    "high-strain",
+    "true-plastic-strain",
+    "stress-strain"
+  ],
+  "composition": {
+    "Al": 1,
+    "Co": 1,
+    "Cr": 1.5,
+    "Fe": 1.5,
+    "Ni": 1,
+    "Ti": 0
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc30"
+  },
+  "title": "paper-8",
+  "b0": 2690,
+  "d1": 574.9646299821443,
+  "d2": 0.2,
+  "ei": 0.20000000000000004,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "pre-strained",
+    "cast",
+    "stress-strain",
+    "unstrained",
+    "stressof",
+    "strain-hardening",
+    "tensilestrain",
+    "truestrain",
+    "strainsof",
+    "pre-strains",
+    "160pre-strain",
+    "pre-strain",
+    "pre-straining",
+    "increasingpre-strain",
+    "strainrange",
+    "161straining",
+    "stress-",
+    "onstrain"
+  ],
+  "composition": {
+    "Cr": 1,
+    "Mn": 1,
+    "Fe": 1,
+    "Co": 1,
+    "Ni": 1
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc31"
+  },
+  "title": "paper-27",
+  "b0": 1970,
+  "d1": 262.6023217270578,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "cold-rolling",
+    "Stress-strain",
+    "stress-true",
+    "stress",
+    "strain24",
+    "stress-strain",
+    "cast",
+    "extrusion"
+  ],
+  "composition": {
+    "Fe": 20,
+    "Mn": 20,
+    "Ni": 20,
+    "Co": 20,
+    "Cr": 20
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc32"
+  },
+  "title": "paper-51",
+  "b0": 2290,
+  "d1": 839.6225570520127,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "cold-rolling",
+    "forrolling",
+    "stress",
+    "strain",
+    "pctstrain",
+    "cast",
+    "thecastings",
+    "hot-rolling-",
+    "rollingwas",
+    "rollingat",
+    "strain-rates",
+    "strain-rate",
+    "unconstrained",
+    "therolling",
+    "hot-rolling",
+    "coldrolling",
+    "rollingpressures",
+    "stress–strain",
+    "rolling.From",
+    "as-cast",
+    "strain-stress"
+  ],
+  "composition": {
+    "J": 1,
+    "U": 1,
+    "N": 1,
+    "E": 1,
+    "M": 1,
+    "T": 1,
+    "A": 1,
+    "L": 1,
+    "R": 1,
+    "G": 1,
+    "I": 1,
+    "C": 1
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc33"
+  },
+  "title": "paper-31",
+  "b0": 2920,
+  "d1": 660.6621476008477,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "strain-induced",
+    "stress",
+    "forge",
+    "www.elsevier.com/locate/scriptamatstrain",
+    "arc-casting",
+    "as-cast",
+    "stress-engineering",
+    "strainrate",
+    "As-cast",
+    "stress-strain"
+  ],
+  "composition": {
+    "Fe": 40,
+    "Mn": 20,
+    "Co": 20,
+    "Cr": 15,
+    "Si": 5,
+    "H": 1,
+    "E": 1,
+    "A": 1
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc34"
+  },
+  "title": "paper-32",
+  "b0": -2.493957133352008e+55,
+  "d1": 2533.666206258229,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "cast",
+    "cast700",
+    "cast1150",
+    "forge",
+    "strain",
+    "stress",
+    "stress-strain",
+    "as-cast",
+    "temperature-stress",
+    "stress/high",
+    "As-cast",
+    "rate-controlling",
+    "stress-assisted",
+    "stress-",
+    "powder",
+    "stress-induced",
+    "strain-hardening",
+    "strain-rate",
+    "strain-induced",
+    "investment-cast"
+  ],
+  "composition": {
+    "Ni": 47.9,
+    "Al": 10.2,
+    "Co": 16.9,
+    "Cr": 7.4,
+    "Fe": 8.9,
+    "Ti": 5.8,
+    "Mo": 0.9,
+    "Nb": 1.2,
+    "W": 0.4,
+    "C": 0.4
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc35"
+  },
+  "title": "paper-33",
+  "b0": -1.74103045925472e+55,
+  "d1": 1201.4359424433753,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "cast",
+    "cast700",
+    "cast1150",
+    "forge",
+    "strain",
+    "stress",
+    "stress-strain",
+    "as-cast",
+    "temperature-stress",
+    "stress/high",
+    "As-cast",
+    "rate-controlling",
+    "stress-assisted",
+    "stress-",
+    "powder",
+    "stress-induced",
+    "strain-hardening",
+    "strain-rate",
+    "strain-induced",
+    "investment-cast"
+  ],
+  "composition": {
+    "Ni": 47.9,
+    "Al": 10.2,
+    "Co": 16.9,
+    "Cr": 7.4,
+    "Fe": 8.9,
+    "Ti": 5.8,
+    "Mo": 0.9,
+    "Nb": 1.2,
+    "W": 0.4,
+    "C": 0.4
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "678444448984f0f5819dbc36"
+  },
+  "title": "paper-34",
+  "b0": 1690,
+  "d1": 3003.887283925985,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "cast",
+    "cast700",
+    "cast1150",
+    "forge",
+    "strain",
+    "stress",
+    "stress-strain",
+    "as-cast",
+    "temperature-stress",
+    "stress/high",
+    "As-cast",
+    "rate-controlling",
+    "stress-assisted",
+    "stress-",
+    "powder",
+    "stress-induced",
+    "strain-hardening",
+    "strain-rate",
+    "strain-induced",
+    "investment-cast"
+  ],
+  "composition": {
+    "Ni": 47.9,
+    "Al": 10.2,
+    "Co": 16.9,
+    "Cr": 7.4,
+    "Fe": 8.9,
+    "Ti": 5.8,
+    "Mo": 0.9,
+    "Nb": 1.2,
+    "W": 0.4,
+    "C": 0.4
+  },
+  "link": null
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc47"
+  },
+  "title": "paper-98",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.767967900347682,
+  "k": 40.80889949267407
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc48"
+  },
+  "title": "paper-99",
+  "b0": 190,
+  "d1": 70,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7073690916067572,
+  "k": 22.544314220142777
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc49"
+  },
+  "title": "paper-94",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "stress-strain",
+    "strain",
+    "Stress-strain",
+    "cast",
+    "Forecast",
+    "unconstrained-type"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.8078651236944862,
+  "k": 265.9008194380808
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc4a"
+  },
+  "title": "paper-97",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.851462095974247,
+  "k": 32.04624677211433
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc4b"
+  },
+  "title": "paper-91",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "constrain",
+    "plastic-strain-",
+    "stress-dependent"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -1.189835438173355,
+  "k": 47.4761450451444
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc4c"
+  },
+  "title": "paper-90",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress–strain",
+    "strain",
+    "strain-hardening",
+    "stress",
+    "strain-stress",
+    "stress–",
+    "Stress–strain",
+    "stress-",
+    "strain-"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.855015524969593,
+  "k": 75.86525041868902
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc4d"
+  },
+  "title": "paper-96",
+  "b0": 190,
+  "d1": 813,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "stress—strain",
+    "stress",
+    "strain",
+    "Stress-strain",
+    "strain-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7138505914544423,
+  "k": 77.70773465404498
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc4e"
+  },
+  "title": "paper-92",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "stress-strain",
+    "strain",
+    "stress-"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.5598110421017468,
+  "k": 193.19322196586208
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc4f"
+  },
+  "title": "paper-98",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.767967900347682,
+  "k": 40.80889949267407
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc50"
+  },
+  "title": "paper-99",
+  "b0": 190,
+  "d1": 70,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7073690916067572,
+  "k": 22.544314220142777
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc51"
+  },
+  "title": "paper-94",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "stress-strain",
+    "strain",
+    "Stress-strain",
+    "cast",
+    "Forecast",
+    "unconstrained-type"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.8078651236944862,
+  "k": 265.9008194380808
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc52"
+  },
+  "title": "paper-97",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.851462095974247,
+  "k": 32.04624677211433
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc53"
+  },
+  "title": "paper-91",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "constrain",
+    "plastic-strain-",
+    "stress-dependent"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -1.189835438173355,
+  "k": 47.4761450451444
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc54"
+  },
+  "title": "paper-90",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress–strain",
+    "strain",
+    "strain-hardening",
+    "stress",
+    "strain-stress",
+    "stress–",
+    "Stress–strain",
+    "stress-",
+    "strain-"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.855015524969593,
+  "k": 75.86525041868902
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc55"
+  },
+  "title": "paper-96",
+  "b0": 190,
+  "d1": 813,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "stress—strain",
+    "stress",
+    "strain",
+    "Stress-strain",
+    "strain-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7138505914544423,
+  "k": 77.70773465404498
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc56"
+  },
+  "title": "paper-92",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "stress-strain",
+    "strain",
+    "stress-"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.5598110421017468,
+  "k": 193.19322196586208
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc57"
+  },
+  "title": "paper-88",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "cast",
+    "strain-rate",
+    "stress",
+    "strain",
+    "stressrelaxation",
+    "strain-temperature",
+    "sand-cast",
+    "casting",
+    "small-strain",
+    "stress±state",
+    "back-stress",
+    "high-strain-rate",
+    "stress.In",
+    "inelasticstrains",
+    "stress-",
+    "Back-stress",
+    "Drag-stress",
+    "drag-stress",
+    "yield-stress",
+    "low-strain-rate",
+    "ofdrag-stress",
+    "andstrain",
+    "constrains",
+    "constraint",
+    "Controlling",
+    "constrain",
+    "astrain",
+    "ofstress-strain",
+    "unstressed",
+    "strain-hardening"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.9878278091313111,
+  "k": 53.94004949426382
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc58"
+  },
+  "title": "paper-95",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "strain",
+    "stress",
+    "stress-",
+    "Stress-strain"
+  ],
+  "composition": {
+    "I": 0.2,
+    "Mg": 19.5
+  },
+  "link": null,
+  "n": -0.8186215556426745,
+  "k": 12.71888026513366
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc59"
+  },
+  "title": "paper-89",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress–strain",
+    "strain",
+    "strain-hardening",
+    "stress",
+    "strain-stress",
+    "stress–",
+    "Stress–strain",
+    "stress-",
+    "strain-"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.4212260548552371,
+  "k": 414.8112615555306
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc5a"
+  },
+  "title": "paper-117",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "restrain",
+    "stress",
+    "strain",
+    "stress-",
+    "cast",
+    "cast-",
+    "casting",
+    "low-stress",
+    "as-cast",
+    "strain-stress",
+    "Stress-strain"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7382036955878795,
+  "k": 3.419133183141015
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc5b"
+  },
+  "title": "paper-119",
+  "b0": 190,
+  "d1": 2363,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "stress",
+    "strain-temperature",
+    "strain-strain",
+    "stress-"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.9293978250068263,
+  "k": 103.39210740478259
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc5c"
+  },
+  "title": "paper-86",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "high-strain-rate",
+    "rate-controlling",
+    "multi-mechanisms-controlling",
+    "stress-strain",
+    "stress-logarithmic",
+    "flow-stress",
+    "strain:0.1|",
+    "constrain",
+    "strain-rate",
+    "extrusion",
+    "cast"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.5301071616890591,
+  "k": 139.90879641270578
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc5d"
+  },
+  "title": "paper-120",
+  "b0": 590,
+  "d1": 2042,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stress—strain",
+    "stress—true",
+    "stress-strain",
+    "Stress-strain",
+    "constraint",
+    "time/strain"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.8635797494534867,
+  "k": 95.3225609847347
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc5e"
+  },
+  "title": "paper-118",
+  "b0": -210,
+  "d1": 2296,
+  "d2": 0.3,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "stress",
+    "constrain",
+    "forge",
+    "extrusion",
+    "constraint",
+    "constrains",
+    "strain-rate",
+    "stress-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.905283899369591,
+  "k": 34.578040720875336
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc5f"
+  },
+  "title": "paper-113",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "stress-strain",
+    "Stress-strain",
+    "stress/MPa",
+    "straints"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7740371392740563,
+  "k": 295.16679154769065
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc60"
+  },
+  "title": "paper-116",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "stress-strain",
+    "strain",
+    "stress—true"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7566604352998147,
+  "k": 53.20896543032022
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc61"
+  },
+  "title": "paper-114",
+  "b0": 590,
+  "d1": 1090,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stress-strain",
+    "stress—strain",
+    "strain-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.618828324820214,
+  "k": 172.08660590082553
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc62"
+  },
+  "title": "paper-110",
+  "b0": 70,
+  "d1": 30,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "Stress–strain",
+    "stress–strain",
+    "stress",
+    "strain",
+    "·Stress–strain",
+    "cast",
+    "forge",
+    "strain-controlled",
+    "constraint",
+    "stress-mechanical",
+    "stress-plastic",
+    "strain-based",
+    "experimentalstress–temperature",
+    "as-cast"
+  ],
+  "composition": {
+    "Al": 1,
+    "Si": 7,
+    "Mg": 0.3
+  },
+  "link": null,
+  "n": -1.0690875624654235,
+  "k": 2.14432103880299
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc63"
+  },
+  "title": "paper-109",
+  "b0": -1010,
+  "d1": 7058,
+  "d2": 0.35,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress-states",
+    "strain",
+    "stress",
+    "stress-strain",
+    "cast",
+    "/C0190TaggedPstrain",
+    "strain-rate",
+    "ess-strain",
+    "stress-",
+    "Stress-strain",
+    "strainTaggedP",
+    "stress-triaxiality",
+    "strain-stress",
+    "stress-displacement",
+    "constrain"
+  ],
+  "composition": {
+    "C": 6.1,
+    "Mg": 3.06
+  },
+  "link": null,
+  "n": -0.7461973782044233,
+  "k": 257.30754792164294
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc64"
+  },
+  "title": "paper-108",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "stress-based",
+    "pre-straining",
+    "strain-rate",
+    "thestrain",
+    "strainrate",
+    "limitingstresses",
+    "strain-hardening",
+    "as-cast",
+    "plane-stress",
+    "–strain",
+    "stress-strain",
+    "stressis",
+    "principalstress",
+    "37withexistenceofnormalstress",
+    "planestress",
+    "planestress00",
+    "effectivestress",
+    "stress-true",
+    "strain-based",
+    "normalstress"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.704774305423304,
+  "k": 90.695089948898
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc65"
+  },
+  "title": "paper-107",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "stress-strain",
+    "stress‐strain",
+    "Stress‐strain",
+    "Stress-strain",
+    "low-stress",
+    "low‐stress",
+    "high‐stress",
+    "high-stress",
+    "stress-states"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7693415092290053,
+  "k": 191.99045580812424
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc66"
+  },
+  "title": "paper-112",
+  "b0": 590,
+  "d1": 635,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress—strain",
+    "FLD-strain",
+    "strain",
+    "stress",
+    "stress—stain",
+    "stress—",
+    "strain-dependent",
+    "FLD-strains",
+    "prestrain",
+    "backstress",
+    "stress-equivalent",
+    "strain-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.5481475499850404,
+  "k": 198.1195937257833
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc67"
+  },
+  "title": "paper-111",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stresswww.elsevier.com",
+    "powder",
+    "stressunder",
+    "extrusion",
+    "forge",
+    "micro-stress",
+    "macrostress",
+    "Microstresses",
+    "microscopicstresses",
+    "macrostresses",
+    "microstresses",
+    "uncon-strained",
+    "stressequilibrium",
+    "–strain",
+    "macrostrain",
+    "plasticstrain",
+    "anisotropystrains",
+    "straintensor",
+    "microstress",
+    "stressand",
+    "strainparameter",
+    "meanstrain",
+    "betweenstrains",
+    "strains.We",
+    "andstrain",
+    "microstrain",
+    "atstress",
+    "interphasestresses",
+    "strainproﬁle",
+    "anisotropystrain",
+    "stressin",
+    "strainas",
+    "nostress",
+    "intergranularstress",
+    "stress-strain",
+    "imposedstrain",
+    "strainingdirection",
+    "strainmismatch",
+    "strain.Note",
+    "saturationmacrostrain",
+    "differencestress",
+    "differencestrain",
+    "strainsthat",
+    "strain-position",
+    "straincan",
+    "Newcastle"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -1.3721627072365337,
+  "k": 10.915180568098695
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc68"
+  },
+  "title": "paper-115",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "stress-strain",
+    "strain",
+    "stress—true"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.5048373730833733,
+  "k": 148.89767357450384
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc69"
+  },
+  "title": "paper-105",
+  "b0": 90,
+  "d1": 302,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "stress–strain",
+    "stress",
+    "forge",
+    "extrusion",
+    "plane-strain",
+    "strain",
+    "offset-stress",
+    "strain-recovery",
+    "Plane-strain",
+    "backward-extrusion",
+    "stress–true",
+    "increasingstrain",
+    "stresswas",
+    "strain–stress",
+    "strainrate",
+    "narrowstrain",
+    "highstrain"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.6952429167214224,
+  "k": 37.05092835675278
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc6a"
+  },
+  "title": "paper-101",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress–strain",
+    "strain",
+    "stress",
+    "constraint",
+    "stress–",
+    "Stress–strain",
+    "stress-strain",
+    "strain-hardening"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.8639923842911348,
+  "k": 10.01294914783656
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc6b"
+  },
+  "title": "paper-102",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "strain",
+    "cast",
+    "constraint",
+    "gravity-casted",
+    "restrain",
+    "strain-",
+    "strain-hardening",
+    "overstrain",
+    "casting",
+    "die-castings",
+    "die-cast",
+    "micro-stress"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.8639923842911348,
+  "k": 10.01294914783656
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc6c"
+  },
+  "title": "paper-100",
+  "b0": 390,
+  "d1": 319,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "strain-rate",
+    "stress",
+    "strain-",
+    "high-strain-",
+    "stress—strain",
+    "stress-wave",
+    "Stress—strain",
+    "strain-hardening"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.5773009684901533,
+  "k": 143.34201836740488
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc6d"
+  },
+  "title": "paper-103",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "forge",
+    "strain/deformation",
+    "stress-strain"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.46052123500893755,
+  "k": 7727.37200626387
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc6e"
+  },
+  "title": "paper-106",
+  "b0": -10,
+  "d1": 1172,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stress-time",
+    "strain-controlled",
+    "total-strain",
+    "constrain",
+    "stress-strain",
+    "strain-hardening",
+    "stresse",
+    "strain-life",
+    "cast"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.8334668253361099,
+  "k": 37.83249371144592
+},
+{
+  "_id": {
+    "$oid": "6784795a8984f0f5819dbc6f"
+  },
+  "title": "paper-104",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "criticalstrain",
+    "andstrain",
+    "stress",
+    "strain-",
+    "strain-hardening",
+    "stressr",
+    "strain.The",
+    "strainhardening",
+    "4—Stress-strain",
+    "strainrange",
+    "stressesZ",
+    "vsstrain",
+    "onstrain-hardening",
+    "smallstrain",
+    "strainfracture"
+  ],
+  "composition": {
+    "Al": 7,
+    "Cu": 2,
+    "Fe": 1
+  },
+  "link": null,
+  "n": -0.5547016172081507,
+  "k": 773.0947376429317
+},
+{
+  "_id": {
+    "$oid": "67866ee48984f0f5819dbc70"
+  },
+  "title": "paper-96",
+  "b0": 190,
+  "d1": 813,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "stress—strain",
+    "stress",
+    "strain",
+    "Stress-strain",
+    "strain-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7138505914544423,
+  "k": 77.70773465404498
+},
+{
+  "_id": {
+    "$oid": "67866ee48984f0f5819dbc71"
+  },
+  "title": "paper-97",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.851462095974247,
+  "k": 32.04624677211433
+},
+{
+  "_id": {
+    "$oid": "67866ee48984f0f5819dbc72"
+  },
+  "title": "paper-99",
+  "b0": 190,
+  "d1": 70,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "stress-strain",
+    "stressesdo",
+    "strain-hardening",
+    "stress—true",
+    "strain-rates"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.7073690916067572,
+  "k": 22.544314220142777
+},
+{
+  "_id": {
+    "$oid": "67866ee48984f0f5819dbc73"
+  },
+  "title": "paper-95",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress-strain",
+    "strain",
+    "stress",
+    "stress-",
+    "Stress-strain"
+  ],
+  "composition": {
+    "I": 0.2,
+    "Mg": 19.5
+  },
+  "link": null,
+  "n": -0.8186215556426745,
+  "k": 12.71888026513366
+},
+{
+  "_id": {
+    "$oid": "67866ee48984f0f5819dbc74"
+  },
+  "title": "paper-100",
+  "b0": 390,
+  "d1": 319,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "strain-rate",
+    "stress",
+    "strain-",
+    "high-strain-",
+    "stress—strain",
+    "stress-wave",
+    "Stress—strain",
+    "strain-hardening"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.5773009684901533,
+  "k": 143.34201836740488
+},
+{
+  "_id": {
+    "$oid": "67866ee48984f0f5819dbc75"
+  },
+  "title": "paper-118",
+  "b0": -210,
+  "d1": 2296,
+  "d2": 0.3,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "stress",
+    "constrain",
+    "forge",
+    "extrusion",
+    "constraint",
+    "constrains",
+    "strain-rate",
+    "stress-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.905283899369591,
+  "k": 34.578040720875336
+},
+{
+  "_id": {
+    "$oid": "67866ee48984f0f5819dbc76"
+  },
+  "title": "paper-114",
+  "b0": 590,
+  "d1": 1090,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stress-strain",
+    "stress—strain",
+    "strain-rate"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -0.618828324820214,
+  "k": 172.08660590082553
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc77"
+  },
+  "title": "paper-126",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate-dependent",
+    "stress-strain",
+    "strain-rate",
+    "as-cast",
+    "Stress-strain",
+    "stress-induced"
+  ],
+  "composition": {
+    "Hf": 1,
+    "Nb": 1,
+    "Ta": 1,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -1.2299947522242762,
+  "k": 55.02158873151752
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc78"
+  },
+  "title": "paper-127",
+  "b0": 6690,
+  "d1": 4625,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "stress"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Cu": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.29310188509828855,
+  "k": 4970.247931720464
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc79"
+  },
+  "title": "paper-128",
+  "b0": 5590,
+  "d1": 1528,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress-strain",
+    "stress"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Cu": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": 0.4221823958085821,
+  "k": 20457.969875231127
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc7a"
+  },
+  "title": "paper-129",
+  "b0": 390,
+  "d1": 7844,
+  "d2": 0.3,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress/strain-induced",
+    "stress",
+    "strain",
+    "as-cast",
+    "cast",
+    "stress-strain",
+    "strain-hardening",
+    "stress-induced"
+  ],
+  "composition": {
+    "Ti": 48.9,
+    "Zr": 32,
+    "Nb": 12.6,
+    "Ta": 6.5
+  },
+  "link": null,
+  "n": -0.7414206185138649,
+  "k": 360.25274967997814
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc7b"
+  },
+  "title": "paper-130",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress/strain-induced",
+    "stress",
+    "strain",
+    "as-cast",
+    "cast",
+    "stress-strain",
+    "strain-hardening",
+    "stress-induced"
+  ],
+  "composition": {
+    "Ti": 48.9,
+    "Zr": 32,
+    "Nb": 12.6,
+    "Ta": 6.5
+  },
+  "link": null,
+  "n": -0.8219326912505627,
+  "k": 371.7620856336465
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc7c"
+  },
+  "title": "paper-131",
+  "b0": 6990,
+  "d1": 3789,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "powder",
+    "ball-to-powder",
+    "stress-strain",
+    "stress-",
+    "strain",
+    "as-cast",
+    "stress"
+  ],
+  "composition": {
+    "Fe": 1,
+    "Co": 1,
+    "Cr": 1,
+    "Ni": 1,
+    "Mn": 1
+  },
+  "link": null,
+  "n": -0.3996202568481597,
+  "k": 3539.0465508127277
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc7d"
+  },
+  "title": "paper-132",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "cast",
+    "as-cast",
+    "stress-strain",
+    "stress",
+    "Stress-strain"
+  ],
+  "composition": {
+    "Al": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Co": 1,
+    "Ni": 1,
+    "Cu": 1,
+    "Mn": 1
+  },
+  "link": null,
+  "n": 0.760518117929002,
+  "k": 181228.0085788821
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc7e"
+  },
+  "title": "paper-133",
+  "b0": 1990,
+  "d1": 1187,
+  "d2": 0.25,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "stress-strain",
+    "stress",
+    "cold-rolling",
+    "stress—",
+    "stress—strain",
+    "cast",
+    "powder"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1
+  },
+  "link": null,
+  "n": -0.3175251456418015,
+  "k": 1002.3620750823027
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc7f"
+  },
+  "title": "paper-134",
+  "b0": 2490,
+  "d1": 1345,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "extrusion",
+    "powder",
+    "stress-strain",
+    "strain",
+    "stress",
+    "cast"
+  ],
+  "composition": {
+    "Al": 1,
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.517083022228546,
+  "k": 1266.4199783809297
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc80"
+  },
+  "title": "paper-135",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "As-cast",
+    "stress-strain",
+    "stress"
+  ],
+  "composition": {
+    "Ti": 1,
+    "V": 1,
+    "Nb": 1,
+    "Mo": 1,
+    "Ta": 1,
+    "W": 1
+  },
+  "link": null,
+  "n": -0.9725764048199047,
+  "k": 241.44087683302064
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc81"
+  },
+  "title": "paper-136",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "stress—strain",
+    "powder"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.9115565416571982,
+  "k": 1195.4207476494855
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc82"
+  },
+  "title": "paper-137",
+  "b0": 1390,
+  "d1": 510340,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "powder",
+    "stress",
+    "stress-strain",
+    "as-cast",
+    "stress-shielding"
+  ],
+  "composition": {
+    "Al": 0.1,
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Ni": 1
+  },
+  "link": null,
+  "n": -0.6726884361497125,
+  "k": 954.6419787631158
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc83"
+  },
+  "title": "paper-138",
+  "b0": 1590,
+  "d1": 3884,
+  "d2": 0.35,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "strain-rate",
+    "cast",
+    "as-cast",
+    "high-strain-rate",
+    "stress-strain",
+    "High-strain"
+  ],
+  "composition": {
+    "Nb": 1,
+    "Cr": 1,
+    "Mo": 0.5,
+    "Ta": 0.5,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -0.41337191010972807,
+  "k": 1170.7851876704378
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc84"
+  },
+  "title": "paper-139",
+  "b0": -5510,
+  "d1": 16930,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "stress-induced",
+    "as-cast",
+    "cast",
+    "strain",
+    "stress",
+    "stress-strain",
+    "powder"
+  ],
+  "composition": {
+    "Ti": 1,
+    "Zr": 1,
+    "Hf": 1,
+    "V": 1,
+    "Nb": 1,
+    "Ta": 1
+  },
+  "link": null,
+  "n": -0.7074586611982071,
+  "k": 760.6990331481403
+},
+{
+  "_id": {
+    "$oid": "678680a38984f0f5819dbc85"
+  },
+  "title": "paper-140",
+  "b0": 2990,
+  "d1": 5451,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "stress",
+    "powder",
+    "ball-to-powder",
+    "process-controlling",
+    "stress-strain"
+  ],
+  "composition": {
+    "Nb": 1,
+    "Cr": 1,
+    "Mo": 0.5,
+    "Ta": 0.5,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -0.9111974446657704,
+  "k": 746.0482159170874
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc86"
+  },
+  "title": "paper-141",
+  "b0": -6.390615670108294e+55,
+  "d1": 677,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "forge",
+    "quasi-constrained",
+    "cast",
+    "Stress-strain",
+    "stress-strain",
+    "stress",
+    "stress-",
+    "microstrain"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Mn": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.20555502852708518,
+  "k": 942.1080008190067
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc87"
+  },
+  "title": "paper-143",
+  "b0": 8300,
+  "d1": 1906,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "cast",
+    "as-cast",
+    "casting",
+    "stress-strain",
+    "stress",
+    "strain"
+  ],
+  "composition": {
+    "Zr": 33.3,
+    "Hf": 33.3,
+    "Nb": 33
+  },
+  "link": null,
+  "n": 0.43165669656835964,
+  "k": 13113.710320233959
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc88"
+  },
+  "title": "paper-144",
+  "b0": 3190,
+  "d1": 3829,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Hf": 1,
+    "Mo": 1,
+    "N": 1,
+    "Db": 1,
+    "Ta": 1,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -0.769835598337768,
+  "k": 775.2831077954664
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc89"
+  },
+  "title": "paper-145",
+  "b0": 290,
+  "d1": 3760,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "stress-induced",
+    "as-cast",
+    "drop-cast",
+    "strain",
+    "powder",
+    "stress-",
+    "stress-strain"
+  ],
+  "composition": {
+    "Al": 0.4,
+    "Hf": 0.6,
+    "Nb": 1,
+    "Ta": 1,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -0.8059773606783209,
+  "k": 258.32936094816415
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc8a"
+  },
+  "title": "paper-146",
+  "b0": -410,
+  "d1": 528249,
+  "d2": 0.44999999999999996,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "strain-hardening",
+    "stress",
+    "strain",
+    "stress-strain",
+    "stress-induced"
+  ],
+  "composition": {
+    "Ti": 1.5,
+    "Ta": 0.5,
+    "Hf": 0.5,
+    "Nb": 0.5,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -1.4282813673408123,
+  "k": 118.02517069797806
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc8b"
+  },
+  "title": "paper-147",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "as-cast",
+    "cast",
+    "strain",
+    "stress",
+    "stress-strain",
+    "casting-induced"
+  ],
+  "composition": {
+    "Al": 0.5,
+    "Co": 1,
+    "Cr": 1,
+    "Cu": 1,
+    "Fe": 1,
+    "Ni": 1
+  },
+  "link": null,
+  "n": -0.02684921026644591,
+  "k": 18377.19837529639
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc8c"
+  },
+  "title": "paper-148",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "restrain",
+    "cast",
+    "strain",
+    "stress-strain",
+    "stress",
+    "strength-strain",
+    "micro-stress",
+    "powder"
+  ],
+  "composition": {
+    "Co": 1,
+    "Fe": 1,
+    "Mn": 1.2,
+    "Ni": 1,
+    "Ga": 0
+  },
+  "link": null,
+  "n": -1.5424771079216308,
+  "k": 22.92758803492868
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc8d"
+  },
+  "title": "paper-149",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "powder",
+    "ball-to-powder",
+    "stress-strain",
+    "stress-",
+    "strain",
+    "as-cast",
+    "stress"
+  ],
+  "composition": {
+    "Fe": 1,
+    "Co": 1,
+    "Cr": 1,
+    "Ni": 1,
+    "Mn": 1
+  },
+  "link": null,
+  "n": -0.6891609409003306,
+  "k": 1700.7267952964492
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc8e"
+  },
+  "title": "paper-150",
+  "b0": 1090,
+  "d1": 922,
+  "d2": 0.2,
+  "ei": 0.20000000000000004,
+  "ee": 0.001,
+  "lemma": [
+    "strain",
+    "as-cast",
+    "stress-strain",
+    "stress",
+    "cold-rolling",
+    "stress—",
+    "stress—strain",
+    "cast",
+    "powder"
+  ],
+  "composition": {
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Mn": 1,
+    "Ni": 1
+  },
+  "link": null,
+  "n": -0.40230829650111954,
+  "k": 757.5257222582361
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc8f"
+  },
+  "title": "paper-151",
+  "b0": 2190,
+  "d1": 3619,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "extrusion",
+    "powder",
+    "stress-strain",
+    "strain",
+    "stress",
+    "cast"
+  ],
+  "composition": {
+    "Al": 1,
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.7010908034828398,
+  "k": 1009.3304423775878
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc90"
+  },
+  "title": "paper-152",
+  "b0": 3290,
+  "d1": 1103,
+  "d2": 0.2,
+  "ei": 0.15000000000000002,
+  "ee": 0.001,
+  "lemma": [
+    "extrusion",
+    "powder",
+    "stress-strain",
+    "strain",
+    "stress",
+    "cast"
+  ],
+  "composition": {
+    "Al": 1,
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.5805749226527073,
+  "k": 1306.617269571627
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc91"
+  },
+  "title": "paper-153",
+  "b0": 3390,
+  "d1": 4485,
+  "d2": 0.2,
+  "ei": 0.1,
+  "ee": 0.001,
+  "lemma": [
+    "extrusion",
+    "powder",
+    "stress-strain",
+    "strain",
+    "stress",
+    "cast"
+  ],
+  "composition": {
+    "Al": 1,
+    "Co": 1,
+    "Cr": 1,
+    "Fe": 1,
+    "Ni": 1,
+    "Ti": 1
+  },
+  "link": null,
+  "n": -0.9767330911437099,
+  "k": 541.6256575665199
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc92"
+  },
+  "title": "paper-154",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "stress",
+    "cast",
+    "as-cast",
+    "strain",
+    "powder",
+    "casting"
+  ],
+  "composition": {
+    "Hf": 1,
+    "Mo": 1,
+    "N": 1,
+    "Db": 1,
+    "Ta": 1,
+    "Ti": 1,
+    "Zr": 1
+  },
+  "link": null,
+  "n": -0.5442752515466638,
+  "k": 3421.6562703806626
+},
+{
+  "_id": {
+    "$oid": "678692828984f0f5819dbc93"
+  },
+  "title": "paper-155",
+  "b0": null,
+  "d1": null,
+  "d2": null,
+  "ei": null,
+  "ee": 0.001,
+  "lemma": [
+    "powder",
+    "stress",
+    "stress-strain",
+    "strain"
+  ],
+  "composition": null,
+  "link": null,
+  "n": -2.2236271781314887,
+  "k": 0.5282451295858217
+}]
